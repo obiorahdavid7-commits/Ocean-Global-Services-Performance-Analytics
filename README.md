@@ -1,4 +1,4 @@
-# OCEAN GLOBAL SERVICES - Sales Performance Dashboard (Power BI)
+# OCEAN GLOBAL SERVICES - Operations & Commercial Performance Analytics
 
 4-Page Executive Power BI Dashboard analyzing 200 orders | ₦399.61M Gross | 12K Qty | 26 Products | 14 Cities
 
