@@ -19,9 +19,6 @@
 ### 🛠️ Tools
 Power BI, DAX, SQL Server, Excel (Data Cleaning)
 
-### 📸 Dashboard Preview
-[Add your 4 clean PNG exports - not phone photos]
-
 ### 📁 Files
 - `Ocean_Global_Services.pbix`
 - `Dataset.xlsx`
