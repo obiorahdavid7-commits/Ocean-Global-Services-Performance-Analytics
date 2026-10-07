@@ -16,6 +16,9 @@
 - Worst city Kano: ₦17M Net, 10 orders - expansion gap
 - Discount leader: Freestanding Bathtub ₦2.0M - needs cap policy
 
+### 👤 Author
+**David** | Operations & Projects Professional | Business Intelligence & Executing Reporting
+
 ### 🛠️ Tools
 Power BI, DAX, SQL Server, Excel (Data Cleaning)
 
